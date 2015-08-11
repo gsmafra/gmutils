@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gmutils',
-    version='0.1.0',
+    version='0.1.1',
     author='Gustavo Sena Mafra',
     author_email='gsenamafra@gmail.com',
     description='Utils',
